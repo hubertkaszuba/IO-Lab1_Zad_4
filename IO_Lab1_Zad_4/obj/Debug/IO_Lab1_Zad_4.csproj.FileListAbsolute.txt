@@ -1,0 +1,6 @@
+C:\Users\Hubert\source\repos\IO_Lab1_Zad_4\IO_Lab1_Zad_4\bin\Debug\IO_Lab1_Zad_4.exe
+C:\Users\Hubert\source\repos\IO_Lab1_Zad_4\IO_Lab1_Zad_4\bin\Debug\IO_Lab1_Zad_4.pdb
+C:\Users\Hubert\source\repos\IO_Lab1_Zad_4\IO_Lab1_Zad_4\obj\Debug\IO_Lab1_Zad_4.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\source\repos\IO_Lab1_Zad_4\IO_Lab1_Zad_4\obj\Debug\IO_Lab1_Zad_4.exe
+C:\Users\Hubert\source\repos\IO_Lab1_Zad_4\IO_Lab1_Zad_4\obj\Debug\IO_Lab1_Zad_4.pdb
+C:\Users\Hubert\source\repos\IO_Lab1_Zad_4\IO_Lab1_Zad_4\obj\Debug\IO_Lab1_Zad_4.csprojResolveAssemblyReference.cache
